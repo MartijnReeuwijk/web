@@ -1,0 +1,59 @@
+/* === Header === */
+header{
+	
+}
+
+header ul li{
+	float: left;
+	background: #27576D
+}
+
+header ul li a:link, header ul li a:visited{
+	text-decoration: none;
+	padding: 20px;
+	display: block;
+	-webkit-transition: ease 0.2s; -moz-transition: ease 0.2s; -o-transition: ease 0.2s; 
+}
+
+header ul li a:hover{
+	background: #487684;
+}
+
+/* === Footer === */
+footer{
+
+}
+
+
+/* === Pagina === */
+.container{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* === MediaQuerties ==*/
+@media only screen and (max-width: 1220px) {
+
+}
